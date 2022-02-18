@@ -1,0 +1,10 @@
+.vscode/
+node_modules/
+dist/
+.env
+coverage
+doc/
+temp/
+/.idea/sshConfigs.xml
+/yarn-error.log
+src/routes/apidocs
